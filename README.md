@@ -10,4 +10,4 @@ Repositories involved:
 * [ariac-2018_moveit_msgs](https://github.com/dgerod/ariac-2018_moveit_msgs), MoveIt! messages package for ROS Kinetic.
 * [ariac-2018_iiwa_stack](https://github.com/dgerod/ariac-2018_iiwa_stack), ROS Indigo/Kinetic metapackage for the KUKA LBR IIWA R800/R820 (7/14 Kg). 
 
-All these repositories are used in Ubuntu 16.04 and with ROS Kinetic, other with other versions they could not work.
+All these repositories are used in Ubuntu 16.04 and with ROS Kinetic, other versions could not work.
