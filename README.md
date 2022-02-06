@@ -1,5 +1,9 @@
 # ARIAC 2018
 
+ The Agile Robotics for Industrial Automation Competition (ARIAC) is an annual competition initiated in 2017, and it is managed by NIST. Here you could find the repositories needed to run ARIAC 2018. 
+
+![image](https://user-images.githubusercontent.com/1392333/152676354-e5c8b048-de14-48c9-96e4-4a097e65666a.png)
+
 Repositories:
 * [ariac-2018_wiki](https://github.com/dgerod/ariac-2018_wiki), wiki explaining ARIAC 2018 competition.
 * [ariac-2018_gear](https://github.com/dgerod/ariac-2018_gear), Gazebo environment for agile robotics (GEAR) for ARIAC 2018.
