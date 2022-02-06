@@ -1,6 +1,6 @@
 # ARIAC 2018
 
-Repositories involved:
+Repositories:
 * [ariac-2018_wiki](https://github.com/dgerod/ariac-2018_wiki), wiki explaining ARIAC 2018 competition.
 * [ariac-2018_gear](https://github.com/dgerod/ariac-2018_gear), Gazebo environment for agile robotics (GEAR) for ARIAC 2018.
 * [ariac-2018_gazebo_ros](https://github.com/dgerod/ariac-2018_gazebo_ros), using ROS with the Gazebo simulator for ARIAC 2018.
